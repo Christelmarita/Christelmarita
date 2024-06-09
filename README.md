@@ -1,11 +1,28 @@
 ### Hi there 👋
 
-I´m Christel, and I am a designer and Front End Development student from Norway.
+I'm Christel, a passionate UI Designer and Front End Developer from Norway.
 
-- 🔭 I’m currently working on my own personal portfolio. Link will be posted asap.
-- 🌱 In the autumn of 2022 I delivered my exam in UI Design at Noroff, and as of august 2022 i started my studies in Front End Development at the same school. I am eager to expand my skillset in designing and building for the web.
-- 💪🏻 In my free time I like to lift weights, hike, read, paint and watch TV series. I´m currently rewatching the Netflix series Dark for the 3. time.
-- 📫 How to reach me: christel.marita@onibodesign.no
-- 😄 Pronouns: her/she
+#### About Me
+I specialize in creating accessible and seamless user experiences through thoughtful and intuitive design. Currently, I'm working on my personal portfolio to showcase my work and skills. I will be graduating from Front End Development studies at Noroff in June 2024.
 
-Thanks for stopping by.
+#### Skills
+- **Languages & Frameworks**: HTML, CSS, JavaScript, React, Bootstrap, Sass
+- **Tools**: Git, GitHub, Cypress, Jest, WordPress
+- **Design**: Adobe XD, Figma, Photoshop, Illustrator
+
+#### Selected Projects
+- **Personal Portfolio**: An interactive and responsive portfolio to showcase my UI/UX design and front end development skills. Link will be posted asap.
+- **Quickbid**: A mock auction site built to display learning outcomes from my studies.
+- **Spectra**: A simple mock e-commerce site built to demonstrate knowledge in React.
+- **Holidaze**: A mock holiday booking site built during my final year at Noroff.
+
+#### Currently
+- 🌱 Enhancing my skills in modern web development technologies
+- 💪🏻 In my free time, I enjoy lifting weights, hiking, and reading
+
+#### How to Reach Me
+- 📫 Email: [christel.marita@onibodesign.no](mailto:christel.marita@onibodesign.no)
+- 💼 LinkedIn: [linkedin.com/in/christelosterboe](https://linkedin.com/in/christelosterboe)
+- 🐙 GitHub: [github.com/Christelmarita](https://github.com/Christelmarita)
+
+Thanks for stopping by! Feel free to connect with me on [LinkedIn](https://linkedin.com/in/christelosterboe) or check out my work on [GitHub](https://github.com/Christelmarita).
